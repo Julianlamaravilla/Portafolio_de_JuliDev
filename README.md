@@ -10,6 +10,7 @@ Sitio web portafolio personal desarrollado con HTML, CSS y JavaScript vanilla, c
 - **Navegación suave**: Scroll suave entre secciones
 - **Animaciones**: Efectos de aparición al hacer scroll
 - **Header fijo**: Navegación siempre visible al hacer scroll
+- **
 
 ## 📁 Estructura del Proyecto
 
